@@ -14,4 +14,4 @@ Please Fork this repository and then issue pull requests for review
 ## How To Contribute
 
 ### Copyright
-2021 Joni
+2021 Joni All Right
