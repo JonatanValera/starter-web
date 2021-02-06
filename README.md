@@ -10,3 +10,6 @@ Hola,Modificado
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+2021 Joni
